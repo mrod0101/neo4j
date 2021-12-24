@@ -131,7 +131,7 @@
     <required.maven.version>3.5.4</required.maven.version>
     <jackson.version>2.12.1</jackson.version>
 	<amazon-sdk.version>1.11.1022</amazon-sdk.version>
-    <guava.version>30.1-jre</guava.version>
+    <guava.version>30.1.1-jre</guava.version>
     <awaitility.version>4.0.3</awaitility.version>
     <!--    Be careful when updating Log4j version. We have workarounds for problems with shading/plugin handling
             in Log4jPluginLoadingWorkaround that must be verified to still work after bumping the version. -->
