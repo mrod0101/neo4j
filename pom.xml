@@ -127,7 +127,7 @@
     <junit.platform.version>1.6.2</junit.platform.version>
     <mockito.version>3.7.7</mockito.version>
     <opencypher.version>1.0.0-M16</opencypher.version>
-    <caffeine.version>3.0.0</caffeine.version>
+    <caffeine.version>3.0.4</caffeine.version>
     <required.maven.version>3.5.4</required.maven.version>
     <jackson.version>2.12.1</jackson.version>
 	<amazon-sdk.version>1.11.1022</amazon-sdk.version>
